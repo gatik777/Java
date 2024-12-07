@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31b5ca7b-b147-4220-a985-73b2f06dca17" name="Changes" comment="GoodBye Java 😢" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2plDkWIYAjgYA4l159KhsRFS4Fp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Main.java.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/mnt/0C18001A3559E87C/Java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17 (2)" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="GatikPrasher.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GatikPrasher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/ArrayLists" />
+      <path value="$PROJECT_DIR$/ArrayListsChallenge" />
+      <path value="$PROJECT_DIR$/ArraysAndArrayLists" />
+      <path value="$PROJECT_DIR$/CodingExercise" />
+      <path value="$PROJECT_DIR$/FirstLastDigitSum" />
+      <path value="$PROJECT_DIR$/HelloWorld" />
+      <path value="$PROJECT_DIR$/IfKeywordAndCodeBlock" />
+      <path value="$PROJECT_DIR$/KeyWordsAndExpressions" />
+      <path value="$PROJECT_DIR$/LinkedList" />
+      <path value="$PROJECT_DIR$/MethodOverloading" />
+      <path value="$PROJECT_DIR$/MobilePhone" />
+      <path value="$PROJECT_DIR$/OverloadedChallenge" />
+      <path value="$PROJECT_DIR$/SumOddRange/src" />
+      <path value="$PROJECT_DIR$/WhiteSpaceAndIntending" />
+    </ignored-roots>
+  </component>
+</project>
